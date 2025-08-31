@@ -1,5 +1,5 @@
-This repository contains the code developed as part of my thesis “Semi-automatic Recognition of Coded Targets in Photogrammetry Applications”.
-The workflow follows these steps:
+This repository contains the code developed as part of my thesis “Semi-automatic Recognition of Coded Targets in Photogrammetry Applications”, in Matlab.
+The workflow follows these steps.
 
 Image collection – Capturing images, some of them containing coded photogrammetric targets.
 
